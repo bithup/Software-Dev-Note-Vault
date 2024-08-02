@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,6 +130,20 @@
                 "useHierarchy": true
               }
             }
+          }
+        ]
+      },
+      {
+        "id": "9a29a25d89566638",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a11d9b9c1ff8806b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           },
           {
             "id": "c9610ab864233c3f",
@@ -138,17 +152,8 @@
               "type": "recent-files",
               "state": {}
             }
-          },
-          {
-            "id": "a11d9b9c1ff8806b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,6 +166,30 @@
       {
         "id": "2a250ca35135fb11",
         "type": "tabs",
+        "dimension": 38.56613102595797,
+        "children": [
+          {
+            "id": "11d9adab2101b335",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "21a378bbe92355e4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "40f0fbd660808ce8",
+        "type": "tabs",
+        "dimension": 61.43386897404203,
         "children": [
           {
             "id": "d6fb0f92316e0ebb",
@@ -168,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/1_Java SE/Java多线程编程.canvas"
+                "file": "notes/同步异步与阻塞.md"
               }
             }
           },
@@ -178,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/1_Java SE/Java多线程编程.canvas",
+                "file": "notes/同步异步与阻塞.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,30 +224,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/1_Java SE/Java多线程编程.canvas",
+                "file": "notes/同步异步与阻塞.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "21a378bbe92355e4",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "11d9adab2101b335",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -236,7 +248,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1b6dc39534aa32ff",
+  "active": "a11d9b9c1ff8806b",
   "lastOpenFiles": [
     "kanban.md",
     "notes/1_Java SE/Java多线程编程.canvas",
