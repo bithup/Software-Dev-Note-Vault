@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/同步异步与阻塞.md"
+                "file": "kanban.md"
               }
             }
           },
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/同步异步与阻塞.md",
+                "file": "kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/同步异步与阻塞.md",
+                "file": "kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,8 +248,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a11d9b9c1ff8806b",
+  "active": "6aa38b83b3556039",
   "lastOpenFiles": [
+    "notes/同步异步与阻塞.md",
     "kanban.md",
     "notes/1_Java SE/Java多线程编程.canvas",
     "notes/1_Java SE/Java输入输出流.canvas",

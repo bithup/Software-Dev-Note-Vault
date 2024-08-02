@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "同步异步与阻塞",
-      "path": "notes/同步异步与阻塞.md"
-    },
-    {
       "basename": "kanban",
       "path": "kanban.md"
+    },
+    {
+      "basename": "同步异步与阻塞",
+      "path": "notes/同步异步与阻塞.md"
     },
     {
       "basename": "Java多线程编程",
