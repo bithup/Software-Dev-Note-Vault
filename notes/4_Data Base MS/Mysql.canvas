@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"62e2ceaab1a0b957","x":-864,"y":407,"width":400,"height":400,"type":"file","file":"resources/unsorted/DB - mysql 1.md"},
+		{"id":"7e9d97b626c588c2","type":"file","file":"resources/unsorted/8.第八章 数据库.md","x":-669,"y":-34,"width":400,"height":400},
+		{"id":"d5e23a055617bb0c","type":"file","file":"resources/unsorted/DB - mysql.md","x":0,"y":0,"width":400,"height":840},
+		{"id":"a9fcf85cf3b15e2b","type":"text","text":"MySQL索引\n\n[图接Mysql索引，写的太好了！ (qq.com)](https://mp.weixin.qq.com/s/nx2xOXXG6gli4A4HKpLZwA)","x":-300,"y":-520,"width":400,"height":280}
+	],
+	"edges":[]
+}

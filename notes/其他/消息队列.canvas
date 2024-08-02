@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"5ad45f1090d0dc4f","type":"text","text":"消息队列的使用场景","x":-276,"y":-369,"width":276,"height":89},
+		{"id":"399ad27720478041","type":"text","text":"Rabbit MQ","x":-250,"y":-140,"width":250,"height":60},
+		{"id":"2a09e15946566b04","x":-286,"y":-32,"width":546,"height":92,"type":"text","text":"redis实现简单的消息队列\n"}
+	],
+	"edges":[]
+}

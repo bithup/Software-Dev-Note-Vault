@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"95d12de52043af88","x":-125,"y":-30,"width":345,"height":60,"type":"text","text":"Remote Procedure Call\n远程过程调用"},
+		{"id":"09210240a82e8af3","x":-202,"y":320,"width":382,"height":180,"type":"text","text":"dubbo\ngRPC"}
+	],
+	"edges":[]
+}

@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"8bca607e218c0b2f","type":"file","file":"resources/unsorted/Java IO.md","x":-380,"y":-273,"width":800,"height":1253},
+		{"id":"0c254bd520b936ac","type":"file","file":"notes/5_Linux Server/linux io模型.md","x":-360,"y":1240,"width":400,"height":160},
+		{"id":"891cb2f033f41565","x":-1110,"y":487,"width":250,"height":293,"type":"text","text":"java中IO多路复用的使用场景\nNIO的使用场景\n\n1. 连接数特别多，发送的数据少，比如聊天服务器"}
+	],
+	"edges":[]
+}

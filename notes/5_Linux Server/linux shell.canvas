@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"c191fe6a9a23b828","type":"text","text":"\n## 所有文件操作\n- 创建\n- 删除\n- 重命名\n- 复制\n- 移动\n## 文本文件操作\n- 查看文件内容\n- 检索文件内如\n- 插入文本\n- 复制文件内容到剪贴板(mac pbcopy)\n- 复制文件内容到另一个文件\n- ","x":-400,"y":80,"width":485,"height":590},
+		{"id":"30669a113b226e74","type":"file","file":"resources/unsorted/Linux - shell.md","x":-400,"y":-340,"width":400,"height":400},
+		{"id":"849a1f6a76b8847c","x":-820,"y":-140,"width":400,"height":400,"type":"file","file":"resources/unsorted/shell脚本.md"}
+	],
+	"edges":[]
+}

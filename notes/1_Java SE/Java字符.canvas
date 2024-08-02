@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"cf0c9ab7be2fdfb7","x":-144,"y":-302,"width":400,"height":2462,"type":"file","file":"resources/unsorted/Java字符、字符串及处理.md"},
+		{"id":"c2ca4caa561a5db8","x":-235,"y":-550,"width":250,"height":60,"type":"text","text":"字符编码原理"},
+		{"id":"d69b030476f84513","x":-98,"y":-434,"width":250,"height":60,"type":"text","text":"字符乱码问题处理"}
+	],
+	"edges":[]
+}

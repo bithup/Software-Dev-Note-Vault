@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"0e7de90e8e8f1045","x":-348,"y":-309,"width":728,"height":789,"type":"text","text":"# Number\n\n  \n\n## Java整数类型\n\n  \n\n### Integer\n\n  \n\n> `Integer a = 1000, b = 1000;`\n\n> `System.out.println(a == b);`\n\n> `Integer c = 100, d = 100;`\n\n> `System.out.println(c == d);`\n\n> 为什么 a == b为false，c == d为true\n\n  \n\nInteger类会缓存`-128~127`之间的值，c和d是同一个对象，而a和b是不同对象\n\n  \n  \n  \n\n## Java浮点数类型\n\n  \n\n### Double\n\n  \n\n#### double的底层实现原理\n\n  \n\n## Java精确计算\n\n  \n\nBigDecimal"},
+		{"id":"c29d577cb1d3decc","x":-238,"y":614,"width":250,"height":606,"type":"text","text":"## 常用的GC有哪些\n\n  \n\n## GC算法\n\n  \n  \n  \n\n## GC日志\n\n  \n\n[求求你了，配个GC日志呗，不然咋分析故障原因 (qq.com)](https://mp.weixin.qq.com/s/WLYWHq621C4L6NaOlhhrpA)"},
+		{"id":"2f120c8dea220350","x":35,"y":758,"width":745,"height":742,"type":"text","text":"## JVM内存模型\n\n  \n  \n  \n\n## 类加载模型（ClassLoader）\n类加载器\n自定义类加载器\n类加载器使用场景\n  \n  \n  \n\n## Class文件字节码\n\n  \n\n## JVM调优"}
+	],
+	"edges":[]
+}

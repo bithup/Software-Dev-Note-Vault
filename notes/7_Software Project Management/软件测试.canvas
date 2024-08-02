@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"8213e706fc0424d5","x":-640,"y":-260,"width":540,"height":540,"type":"text","text":"单元测试"},
+		{"id":"d8cb533bbdf2bccf","x":80,"y":-260,"width":680,"height":540,"type":"text","text":"接口自动化测试"},
+		{"id":"410cb98d12ac1b9d","x":-640,"y":440,"width":540,"height":480,"type":"text","text":"测试案例编写"}
+	],
+	"edges":[]
+}

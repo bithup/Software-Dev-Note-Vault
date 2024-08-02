@@ -1,0 +1,297 @@
+{
+  "main": {
+    "id": "22a487826e46d652",
+    "type": "split",
+    "children": [
+      {
+        "id": "251ab9701bc8975c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80358c7d05cb817e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "notes/1_Java SE/Java输入输出流.canvas",
+                "viewState": {
+                  "x": 20,
+                  "y": 534.4520944402134,
+                  "zoom": -0.6804734812031605
+                }
+              }
+            }
+          },
+          {
+            "id": "2cd7be9ebd789cbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/同步异步与阻塞.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aefcaef0c49b5545",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "notes/1_Java SE/Java多线程编程.canvas",
+                "viewState": {
+                  "x": -2893.646162194908,
+                  "y": 1567.275940157741,
+                  "zoom": -0.20085090617338822
+                }
+              }
+            }
+          },
+          {
+            "id": "1b6dc39534aa32ff",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "notes/1_Java SE/Java多线程编程.canvas",
+                "viewState": {
+                  "x": -5056.448326431318,
+                  "y": 3028.7496785108297,
+                  "zoom": -0.5169492249536394
+                }
+              }
+            }
+          },
+          {
+            "id": "6aa38b83b3556039",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "40e8f6344bc6de0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f528b82170673dcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eee402201784a9fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee48a30782435b63",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "31e78680090a5caf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c9610ab864233c3f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "a11d9b9c1ff8806b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 350.5
+  },
+  "right": {
+    "id": "27c14f3417805717",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a250ca35135fb11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6fb0f92316e0ebb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/1_Java SE/Java多线程编程.canvas"
+              }
+            }
+          },
+          {
+            "id": "222d7d3906b76b43",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/1_Java SE/Java多线程编程.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c2a9a089659780d2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/1_Java SE/Java多线程编程.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "21a378bbe92355e4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "11d9adab2101b335",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 367.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "tldraw:Create new tldrawing": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "1b6dc39534aa32ff",
+  "lastOpenFiles": [
+    "kanban.md",
+    "notes/1_Java SE/Java多线程编程.canvas",
+    "notes/1_Java SE/Java输入输出流.canvas",
+    "notes/3_Spring Framework/Spring Boot项目开发.canvas",
+    "resources/unsorted/搭建项目模板 1.md",
+    "notes/1_Java SE/JVM.canvas",
+    "notes/1_Java SE/Java枚举.canvas",
+    "notes/1_Java SE/Java集合.canvas",
+    "notes/1_Java SE/Java语法.canvas",
+    "notes/1_Java SE/Java函数式编程.canvas",
+    "notes/1_Java SE/Java反射.canvas",
+    "resources/unsorted/Java反射与动态代理 1.md",
+    "notes/4_Data Base MS/Database.canvas",
+    "resources/unsorted/DB.md",
+    "resources/unsorted/DB - redis.md",
+    "resources/unsorted/DB - mysql 1.md",
+    "resources/unsorted/面向对象.md",
+    "resources/unsorted/基本语法.md",
+    "resources/unsorted/C++程序设计自考教材知识点总结.md",
+    "resources/unsorted/3、C++基础 1.md",
+    "resources/unsorted/排序算法.md",
+    "resources/unsorted/C++笔记.md",
+    "resources/unsorted/3、C++基础.md",
+    "resources/unsorted/2、80x86汇编.md",
+    "resources/unsorted/1、计算机组成.md",
+    "notes/其他/自动化测试面试题.md",
+    "resources/unsorted/Java基础面试题.md",
+    "resources/unsorted/8.第八章 数据库.md",
+    "resources/unsorted/常用shell命令.md",
+    "resources/unsorted/安装nginx.md",
+    "resources/unsorted/安装MySQL.md",
+    "resources/unsorted/安装JDK.md",
+    "resources/unsorted/shell脚本.md",
+    "resources/unsorted/docker 1.md",
+    "resources/unsorted/Java程序设计基础.md",
+    "resources/unsorted/JVM线程状态流转图.svg",
+    "resources/unsorted/cas示意图.svg",
+    "resources/unsorted/Pasted image 20240802093527.png",
+    "resources/unsorted/Pasted image 20240801164805.png",
+    "resources/unsorted/Pasted image 20240801113403.png",
+    "resources/unsorted/Pasted image 20240801112844.png",
+    "resources/unsorted/Pasted image 20240801110159.png",
+    "resources/unsorted/Pasted image 20240801105747.png",
+    "resources/unsorted/Pasted image 20240801103008.png",
+    "resources/unsorted/Pasted image 20240801102543.png",
+    "notes/7_Software Project Management",
+    "notes/6_Data Structure And Algorithm",
+    "notes/其他",
+    "notes/5_Linux Server",
+    "notes/4_Data Base MS",
+    "spring.pdf",
+    "resources/unsorted/未命名文件.vsdx",
+    "resources/unsorted/思维导图-Java核.json",
+    "resources/pictures",
+    "resources/pdf/地球范围内相对论效应下的时间转移与同步.pdf"
+  ]
+}

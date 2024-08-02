@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"94897161633a8b3c","type":"group","x":-1360,"y":-545,"width":1060,"height":1265,"label":"http接口"},
+		{"id":"465019d989c446d2","type":"group","x":-160,"y":-1040,"width":900,"height":560,"label":"数据访问"},
+		{"id":"26a195b5673aba55","type":"group","x":780,"y":-480,"width":860,"height":580,"label":"用户登陆&权限控制"},
+		{"id":"33c99f0ea67775a4","x":-445,"y":3857,"width":400,"height":400,"type":"file","file":"resources/unsorted/搭建项目模板 1.md"},
+		{"id":"dc35b93f2f58abb3","type":"text","text":"接口参数校验","x":-1080,"y":-200,"width":250,"height":60},
+		{"id":"b1a13d70c230a90b","type":"text","text":"事务控制","x":420,"y":-970,"width":250,"height":390},
+		{"id":"acec7bcc879a2808","type":"file","file":"resources/unsorted/SpringBoot - transaction.md","x":345,"y":-1649,"width":400,"height":400},
+		{"id":"ebfc0789c018e18c","type":"file","file":"resources/unsorted/SpringBoot - spring mvc.md","x":-2200,"y":-40,"width":400,"height":400},
+		{"id":"881b34cf5f64cef8","type":"file","file":"resources/unsorted/SpringBoot - spring doc.md","x":-750,"y":-1160,"width":400,"height":400},
+		{"id":"5b2269628b851ac6","type":"text","text":"\n访问路径控制\n\n配置过滤器\n","x":-1080,"y":320,"width":250,"height":176},
+		{"id":"7d5381b2f9cf9fd5","type":"text","text":"接口文档\nspring-doc","x":-600,"y":-466,"width":250,"height":60},
+		{"id":"b84b4f91d8fe05c0","type":"text","text":"springboot项目单元测试","x":-3791,"y":-1059,"width":731,"height":379},
+		{"id":"ae7f2c191207f9ed","type":"text","text":"spring security\n登陆与授权\noAuth2\n扫码登陆\n第三方账号登陆","x":900,"y":-60,"width":520,"height":124},
+		{"id":"205f80b52ab83ab2","type":"text","text":"分布式session\nspring-session","x":900,"y":-436,"width":480,"height":60},
+		{"id":"13eb73fc9695d8b0","type":"text","text":"jwt token","x":900,"y":-260,"width":490,"height":60},
+		{"id":"317340cfc83c52e2","type":"file","file":"resources/unsorted/SpringBoot - spring security&Oauth2.md","x":2160,"y":-406,"width":400,"height":400},
+		{"id":"6d9c4aa9a8bfaa9b","type":"file","file":"resources/unsorted/SpringBoot - profile.md","x":1113,"y":1738,"width":400,"height":400},
+		{"id":"90d0530dac7a70c9","type":"text","text":"profile拆分\n配置数据绑定","x":1188,"y":1360,"width":250,"height":60},
+		{"id":"e2b179c275414d87","type":"text","text":"数据源配置\n\nmysql\n\nspring-data-jpa\nspring-data-jdbc\nmybatis\n\n\n\n\nredis\nspring-data-redis","x":120,"y":-960,"width":280,"height":280},
+		{"id":"dd8d1bdf8790e7fe","type":"text","text":"缓存","x":-160,"y":-880,"width":250,"height":60},
+		{"id":"2d121ab349b643d2","type":"text","text":"[美团二面：Redis与MySQL双写一致性如何保证？ - 掘金 (juejin.cn)](https://juejin.cn/post/6964531365643550751)","x":-267,"y":-1679,"width":465,"height":230},
+		{"id":"841716bb7bd0b332","type":"file","file":"resources/unsorted/SpringBoot - validate.md","x":-2200,"y":440,"width":400,"height":400},
+		{"id":"53e552e8860a80ec","type":"file","file":"resources/unsorted/SpringBoot - filter&interceptor.md","x":-2200,"y":1000,"width":400,"height":400},
+		{"id":"87631bddf8fb2870","type":"text","text":"\n\n过滤器拦截器配置\n\n\n  \n\n## 事件机制\n\n  \n\n## 异步调用\n\n  \n\n[SpringBoot系列——@Async优雅的异步调用 - huanzi-qch - 博客园 (cnblogs.com)](https://www.cnblogs.com/huanzi-qch/p/11231041.html)\n\n  \n\n[为什么不建议直接使用 Async 注解？ (qq.com)](https://mp.weixin.qq.com/s/-98XRXw7SZJg71ss2iD8DA)\n\nAOP切面开发\n","x":-1220,"y":2140,"width":807,"height":796},
+		{"id":"7670385cc232e032","type":"text","text":"日志框架配置与使用\n## 日志格式\n\n  \n\n## 常用日志框架\n\n  \n\n### java自带log\n\n  \n\n### 日志门面框架\n\n  \n\n### 日志实现框架\n\n  \n\n### apache commons-logging\n\n  \n\n### log4j\n\n  \n\n### logback\n\n  \n\n## springboot 日志配置\n\n  \n\n## 线上日志排查\n\n  \n\n## logstash\n\n  \n  \n  \n\n[Java 日志记录最佳实践，写得太好了吧！ (qq.com)](https://mp.weixin.qq.com/s/9zJ4JdSwimLkswxxyq1blA)\n\n\n[你居然还去服务器上捞日志，搭个日志收集系统难道不香么 - 掘金 (juejin.cn)](https://juejin.cn/post/7132336434131763214)\n\n搭建ELK 日志收集系统\n\n  \n\n日志中加入traceID\n","x":2160,"y":940,"width":920,"height":998},
+		{"id":"30a9987032a82489","type":"file","file":"resources/unsorted/SpringBoot - global exception.md","x":86,"y":2640,"width":400,"height":400},
+		{"id":"67cda349294d218e","type":"file","file":"resources/unsorted/搭建项目模板.md","x":-114,"y":3460,"width":400,"height":400},
+		{"id":"e39ba7fd51cd0064","type":"text","text":"定时任务\n## schedule\n\n  \n\n### 简介\n\n  \n\n适合简单的定时任务，不支持分布式\n\n  \n\n### 配置\n\n  \n\n启动类上增加注解@EnableScheduling\n\n  \n\n触发计划表达式\n\n  \n\n@Scheduled(cron=\"seconds minutes hours day month week\")或\n\n  \n\n@Scheduled(cron=\"seconds minutes hours day month week year\")\n\n  \n\n## quartz\n\n  \n\n### 简介\n\n  \n\nQuartz是OpenSymphony开源组织在Job scheduling领域又一个开源项目\n\n  \n\n## cron表达式\n\n  \n\n## 分布式\n\n  \n\n> springboot项目中的分布式是否是默认支持分布式的，在分布式部署的情况下如何保证任务只被调用一次？\n\n  \n\nschedule+redis：使用redis实现分布式锁，结合schedule实现分布式定时任务\n\n\nxxl-job集成","x":75,"y":860,"width":565,"height":500}
+	],
+	"edges":[
+		{"id":"1bacda23775b2575","fromNode":"465019d989c446d2","fromSide":"top","toNode":"acec7bcc879a2808","toSide":"bottom"},
+		{"id":"2f9c102f52bbb297","fromNode":"26a195b5673aba55","fromSide":"right","toNode":"317340cfc83c52e2","toSide":"left"},
+		{"id":"ec451fb80b7db436","fromNode":"94897161633a8b3c","fromSide":"left","toNode":"ebfc0789c018e18c","toSide":"right"},
+		{"id":"3f780fc3ec1e22da","fromNode":"7d5381b2f9cf9fd5","fromSide":"top","toNode":"881b34cf5f64cef8","toSide":"bottom"},
+		{"id":"01e30c83c80e6364","fromNode":"90d0530dac7a70c9","fromSide":"bottom","toNode":"6d9c4aa9a8bfaa9b","toSide":"top"},
+		{"id":"b41fce5710aecc1d","fromNode":"dc35b93f2f58abb3","fromSide":"bottom","toNode":"841716bb7bd0b332","toSide":"right"},
+		{"id":"1d789589ca522441","fromNode":"5b2269628b851ac6","fromSide":"bottom","toNode":"53e552e8860a80ec","toSide":"top"},
+		{"id":"266a2f9329207996","fromNode":"dd8d1bdf8790e7fe","fromSide":"top","toNode":"2d121ab349b643d2","toSide":"bottom"}
+	]
+}

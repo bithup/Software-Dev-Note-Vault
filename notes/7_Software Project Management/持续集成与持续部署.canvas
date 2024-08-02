@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"4523d0d427538e63","x":-145,"y":-391,"width":705,"height":571,"type":"link","url":"https://www.redhat.com/zh/topics/devops/what-is-ci-cd"},
+		{"id":"5b556738c0157618","x":-145,"y":320,"width":250,"height":60,"type":"text","text":"gitlab安装配置与使用"},
+		{"id":"c8d8ec67ffa3031e","x":-145,"y":440,"width":250,"height":60,"type":"text","text":"jenkins安装配置使用"}
+	],
+	"edges":[]
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"fe8b212b5665cb59","x":-392,"y":-371,"width":452,"height":351,"type":"text","text":"[3种CQRS架构模式 (qq.com)](https://mp.weixin.qq.com/s/XdZuCbMblTq9i4259jTswQ)"},
+		{"id":"d9711ab041457cb6","x":-63,"y":291,"width":400,"height":400,"type":"file","file":"resources/unsorted/Architecture - DDD.md"},
+		{"id":"e6915b566f2f8d48","x":206,"y":-159,"width":400,"height":400,"type":"file","file":"resources/unsorted/Architecture - distributed system.md"},
+		{"id":"6a610bfe02d1a971","x":-113,"y":1020,"width":913,"height":520,"type":"text","text":"# Architecture\n\n  \n\n什么是软件架构\n\n  \n\n常见软件架构\n\n  \n\n[架构设计的三个原则 (qq.com)](https://mp.weixin.qq.com/s/H95J-fGhghhEgzuepVX04w)\n\n  \n\n[常见的系统架构 - 搬砖滴 - 博客园 (cnblogs.com)](https://www.cnblogs.com/qtiger/p/14067640.html)\n\n  \n\n[Java架构师学习路线图(P8) | ProcessOn免费在线作图,在线流程图,在线思维导图](https://www.processon.com/view/link/5ece30f91e08530a9b241122#map)\n\n  \n  \n  \n\n集群、分布式、微服务概念的差异\n\n  \n\n集群：多台服务器提供同一服务，负载均衡指集群间的负载均衡\n\n  \n  \n  \n\n分布式：将一个大的系统划分为多个业务模块，业务模块分别部署到不同的机器上\n\n  \n\n微服务：将模块拆分成一个独立的服务单元通过接口来实现数据的交互，微服务偏向于软件层面，将业务模块拆分，分布式强调的是物理机器层面\n\n  \n  \n  \n\n分布式缓存、session"}
+	],
+	"edges":[]
+}

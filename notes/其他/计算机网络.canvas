@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"e4e00dec72c490b1","type":"text","text":"  \n\n| OSI七层模型 | 功能                   | 数据格式 | 对应网络协议  | TCP/IP四层模型 |\n\n| ----------- | ---------------------- | -------- | ------------- | -------------- |\n\n| 应用层      |                        |          | DNS、HTTP     | 应用           |\n\n| 表达层      |                        |          |               |                |\n\n| 会话层      |                        |          |               |                |\n\n| 传输层      |                        |          | TCP、UDP、TLS | 传输层         |\n\n| 网络层      |                        |          | IP、ICMP      | 网络层         |\n\n| 数据链路层  | 负责网络寻址、错误侦测 |          | Wi-Fi         | 数据链路层     |\n\n| 物理层      |                        |          |               |                |","x":-157,"y":-516,"width":957,"height":676},
+		{"id":"44d1a88d83fbf22e","x":-149,"y":307,"width":1069,"height":60,"type":"text","text":"[计算机网络基础知识总结 | 菜鸟教程 (runoob.com)](https://www.runoob.com/w3cnote/summary-of-network.html)"},
+		{"id":"7671db98872fb45e","x":795,"y":220,"width":250,"height":60,"type":"text","text":"HTTP&HTTPS协议"}
+	],
+	"edges":[]
+}

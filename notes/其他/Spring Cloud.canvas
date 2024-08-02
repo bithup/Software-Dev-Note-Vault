@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"f1671ed49cf57f6e","type":"text","text":"# SpringCloud\n\n  \n\n- 服务治理Eureka\n\n- 服务注册是服务提供方将自己的信息注册到注册中心\n\n- 服务发现是服务调用方向注册中心查询可调用的服务（不会每次都查询，使用缓存）\n\n- Eureka服务端成为注册中心，客户端就是将自己注册到服务中心的服务（也需要引入Eureka依赖）\n\n- Eureka的高可用性，可以有多个注册中心，注册中心互相注册自己\n\n- 使用Ribbon可实现***客户端负载均衡***，在服务消费放引入Ribbon依赖，使用RestTemplate调用，Ribbon会轮训服务端列表\n\n- 容错保护，断路器Hystrix\n\n- 生命式服务调用Feign，对RestTemplate的进一步封装，可使用注解访问服务\n\n- 网关zuul：网关需要要路由，过滤校验，负载均衡，容错处理等功能\n\n  zuul依赖了hystrix\\ribbon\\actuator等模块\n\n- zuul提供基于配置的路由和基于服务的路由（结合eureka）\n\n- spring cloud config，分布式配置中心\n\n  与git服务结合，将配置文件存放在git服务中。微服务应用在启动时，读取\n\n  Bootstrap.properties中的配置，向configserver获取对应的配置信息。\n\n  \n  \n  \n\n[彻底征服：19 张图解说 Spring Cloud (qq.com)](https://mp.weixin.qq.com/s/aJNII86A_jSvRRMuQP501Q)","x":-172,"y":-444,"width":952,"height":844}
+	],
+	"edges":[]
+}

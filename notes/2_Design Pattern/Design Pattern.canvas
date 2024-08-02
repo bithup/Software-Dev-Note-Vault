@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"1dd92164c79dd1ca","x":-292,"y":2082,"width":400,"height":400,"type":"file","file":"resources/unsorted/Java反射与动态代理.md"},
+		{"id":"72ff2bf51b1f40e3","type":"text","text":"设计模式分类，创建型模式、结构性模式、行为模式","x":-598,"y":-386,"width":538,"height":60},
+		{"id":"56be555314e6759f","type":"file","file":"resources/unsorted/Java设计模式.md","x":-380,"y":-140,"width":820,"height":1520}
+	],
+	"edges":[]
+}

@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"9f7dc4f17221b6b0","x":-2436,"y":48,"width":400,"height":400,"type":"file","file":"resources/unsorted/Java反射与动态代理 1.md"},
+		{"id":"136c6691be30f1da","type":"text","text":"什么是Java的内省（自省）机制？\n内省和反射\n","x":-125,"y":-30,"width":365,"height":210}
+	],
+	"edges":[]
+}

@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Maple",
+  "showViewHeader": true,
+  "theme": "moonstone",
+  "textFontFamily": "Maple Mono NF CN",
+  "accentColor": "#004cff",
+  "enabledCssSnippets": [
+    "test"
+  ],
+  "monospaceFontFamily": "Maple Mono NF CN",
+  "interfaceFontFamily": ""
+}

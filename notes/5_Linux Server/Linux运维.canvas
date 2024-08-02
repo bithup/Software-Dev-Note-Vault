@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"8c0375e2734be8e0","x":-436,"y":603,"width":400,"height":400,"type":"file","file":"resources/unsorted/常用shell命令.md"},
+		{"id":"45a92594fbe877a8","type":"file","file":"resources/unsorted/Linux - settings.md","x":-80,"y":-580,"width":400,"height":400},
+		{"id":"a6d285d91968a1be","x":227,"y":39,"width":400,"height":400,"type":"file","file":"resources/unsorted/安装JDK.md"},
+		{"id":"f1e99172379dbe30","x":-196,"y":-36,"width":400,"height":400,"type":"file","file":"resources/unsorted/安装MySQL.md"},
+		{"id":"be2b62f16aa29ab9","x":-89,"y":536,"width":400,"height":400,"type":"file","file":"resources/unsorted/安装nginx.md"}
+	],
+	"edges":[]
+}

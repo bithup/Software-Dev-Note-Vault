@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"f1ff849824c47a9d","type":"text","text":"项目构建系统的作用：自动化执行编译、打包、单元测试等任务\nJava项目构建系统发展历程\n\nmake -> ant -> maven -> gradle","x":-764,"y":-262,"width":624,"height":162},
+		{"id":"c2ba408bb16eab3d","x":-780,"y":20,"width":640,"height":600,"type":"text","text":"maven"},
+		{"id":"81d34cce267b6910","x":-40,"y":20,"width":660,"height":600,"type":"text","text":"gradle"}
+	],
+	"edges":[]
+}

@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"dd8ac11d016ba247","x":-268,"y":-139,"width":748,"height":799,"type":"file","file":"resources/unsorted/Java异常与错误.md"},
+		{"id":"9a3bddbf891375a0","x":-360,"y":-340,"width":560,"height":60,"type":"text","text":"什么是异常（Exception），什么是错误（Error）?"}
+	],
+	"edges":[]
+}

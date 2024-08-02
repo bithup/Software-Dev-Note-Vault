@@ -1,0 +1,19 @@
+{
+  "showInlineTitle": false,
+  "showRibbon": false,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Tabloid",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  },
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "useTab": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "resources/unsorted"
+}

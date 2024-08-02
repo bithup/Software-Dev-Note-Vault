@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"0c339eb21f2a7eec","x":1185,"y":-1280,"width":820,"height":820,"type":"group","label":"需求管理"},
+		{"id":"5b6b7704a63015f3","type":"group","x":1185,"y":-180,"width":820,"height":480,"label":"开发测试人员"},
+		{"id":"5071176d59f9a0fe","type":"group","x":600,"y":-180,"width":400,"height":480,"label":"源代码托管平台Server"},
+		{"id":"61593f42bed50ec0","type":"group","x":120,"y":-180,"width":400,"height":480,"label":"生产环境"},
+		{"id":"5f9f9d55881e720b","type":"group","x":600,"y":460,"width":400,"height":400,"label":"测试环境"},
+		{"id":"51b12f9d0cbb911e","type":"text","text":"VCS版本控制系统\n有分布式和中心式\ngit\nsvn\n\n作用是多人协作开发项目，管理源代码合并、回滚等","x":-880,"y":-257,"width":320,"height":260},
+		{"id":"352aeef8228a8d0e","type":"text","text":"jira\n\n敏捷项目管理工具\n- 敏捷开发团队\n- 缺陷跟踪团队\n- DevOps 团队\n\n- 产品管理团队\n- 项目管理团队\n- 软件开发团队","x":-880,"y":60,"width":250,"height":340},
+		{"id":"8a46b2d3f4b8bf42","type":"text","text":"源代码托管平台\ngithub\ngitlab","x":-320,"y":-257,"width":250,"height":185},
+		{"id":"4ae70cb9dc9f661e","type":"text","text":"jenkins","x":-320,"y":3,"width":250,"height":230},
+		{"id":"06cb2dadbdd443fe","type":"text","text":"自动化测试系统","x":120,"y":460,"width":400,"height":400},
+		{"id":"161f17d66e6d1458","type":"text","text":"缺陷追踪系统","x":520,"y":-640,"width":250,"height":280},
+		{"id":"7b624e646aa31f54","type":"text","text":"jenkins\n","x":708,"y":180,"width":250,"height":60},
+		{"id":"53df9dfdbb6ae631","type":"text","text":"项目构建系统maven","x":708,"y":500,"width":250,"height":60},
+		{"id":"e8512272abd449e2","type":"text","text":"gitlab","x":708,"y":-57,"width":250,"height":60},
+		{"id":"93e4006ac140d84e","type":"text","text":"集成开发环境IDEA\nmaven\ngit\n","x":1280,"y":-164,"width":250,"height":114},
+		{"id":"914c01de4cfe0acf","x":1280,"y":100,"width":250,"height":60,"type":"text","text":"测试案例编写"},
+		{"id":"54de1ff2a2faedec","x":1280,"y":3,"width":250,"height":60,"type":"text","text":"数据库设计"},
+		{"id":"7062a141886f7541","type":"text","text":"需求管理系统","x":880,"y":-1220,"width":250,"height":260},
+		{"id":"659b0a8d621ba1b5","x":1235,"y":-1220,"width":250,"height":188,"type":"text","text":"设计资源协作共享\n\n蓝湖"},
+		{"id":"7695fa4fe05b85ff","x":1671,"y":-1048,"width":250,"height":60,"type":"text","text":"需求评审"},
+		{"id":"7ecb1aa10f5f4fa6","x":1671,"y":-1220,"width":250,"height":60,"type":"text","text":"需求收集"},
+		{"id":"6338c32834571843","x":1671,"y":-620,"width":250,"height":60,"type":"text","text":"需求文档"},
+		{"id":"aa3fbed06588aab3","x":1671,"y":-840,"width":250,"height":60,"type":"text","text":"原型设计"},
+		{"id":"8f93e4d5e0203f39","x":1671,"y":100,"width":250,"height":60,"type":"text","text":"接口文档编写"},
+		{"id":"7ed673b559546068","type":"text","text":"DevOps\n","x":-340,"y":530,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"6762f7f0fe16d7bc","fromNode":"5b6b7704a63015f3","fromSide":"left","toNode":"e8512272abd449e2","toSide":"right","label":"提交代码"},
+		{"id":"576d0e45a9cd5c34","fromNode":"e8512272abd449e2","fromSide":"bottom","toNode":"7b624e646aa31f54","toSide":"top","label":"通知jenkins"},
+		{"id":"9f301a0fc73ce71d","fromNode":"5071176d59f9a0fe","fromSide":"bottom","toNode":"5f9f9d55881e720b","toSide":"top","label":"打包部署"},
+		{"id":"7521bd5bf7d1e17a","fromNode":"7ecb1aa10f5f4fa6","fromSide":"bottom","toNode":"7695fa4fe05b85ff","toSide":"top"},
+		{"id":"52e5a27f76212a74","fromNode":"6338c32834571843","fromSide":"bottom","toNode":"8f93e4d5e0203f39","toSide":"top"},
+		{"id":"9aa34bc5b4110fc4","fromNode":"8f93e4d5e0203f39","fromSide":"left","toNode":"914c01de4cfe0acf","toSide":"right"},
+		{"id":"83915cfdbff99aac","fromNode":"7695fa4fe05b85ff","fromSide":"bottom","toNode":"aa3fbed06588aab3","toSide":"top"},
+		{"id":"dffdca41b4c825a7","fromNode":"aa3fbed06588aab3","fromSide":"bottom","toNode":"6338c32834571843","toSide":"top"}
+	]
+}
