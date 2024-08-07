@@ -21,3 +21,11 @@ replay_pid*
 
 # macOS
 .DS_Store
+
+# obsidian
+app.json
+appearance.json
+core-plugins-migration.json
+core-plugins.json
+data.json
+workspace.json
