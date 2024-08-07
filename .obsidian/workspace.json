@@ -15,74 +15,14 @@
               "state": {
                 "file": "notes/1_Java SE/Java输入输出流.canvas",
                 "viewState": {
-                  "x": 20,
-                  "y": 534.4520944402134,
-                  "zoom": -0.6804734812031605
-                }
-              }
-            }
-          },
-          {
-            "id": "2cd7be9ebd789cbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/同步异步与阻塞.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aefcaef0c49b5545",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "notes/1_Java SE/Java多线程编程.canvas",
-                "viewState": {
-                  "x": -2893.646162194908,
-                  "y": 1567.275940157741,
-                  "zoom": -0.20085090617338822
-                }
-              }
-            }
-          },
-          {
-            "id": "1b6dc39534aa32ff",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "notes/1_Java SE/Java多线程编程.canvas",
-                "viewState": {
-                  "x": -5056.448326431318,
-                  "y": 3028.7496785108297,
-                  "zoom": -0.5169492249536394
-                }
-              }
-            }
-          },
-          {
-            "id": "6aa38b83b3556039",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
+                  "x": 1469.970109969168,
+                  "y": 174.20760757572336,
+                  "zoom": -0.8931616126348997
                 }
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "java集合",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,7 +124,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "40f0fbd660808ce8",
@@ -197,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kanban.md"
+                "file": "notes/1_Java SE/Java输入输出流.canvas"
               }
             }
           },
@@ -207,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kanban.md",
+                "file": "notes/1_Java SE/Java输入输出流.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kanban.md",
+                "file": "notes/1_Java SE/Java输入输出流.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 367.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,22 +190,27 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6aa38b83b3556039",
+  "active": "80358c7d05cb817e",
   "lastOpenFiles": [
-    "notes/同步异步与阻塞.md",
-    "kanban.md",
-    "notes/1_Java SE/Java多线程编程.canvas",
+    "notes/1_Java SE/Java集合.canvas",
     "notes/1_Java SE/Java输入输出流.canvas",
+    "kanban.md",
+    "notes/同步异步与阻塞.md",
+    "notes/1_Java SE/Java语法.canvas",
+    "notes/1_Java SE/Java多线程编程.canvas",
+    "notes/1_Java SE/Java异常捕获与处理.canvas",
+    "notes/5_Linux Server/git.canvas",
+    "resources/unsorted/java异常类图.png",
+    "resources/unsorted/Pasted image 20240803181340.png",
+    "resources/unsorted/Java集合.md",
+    "resources/unsorted/Pasted image 20240803133214.png",
+    "resources/unsorted/ScheduledThreadPoolExecutor类图.png",
     "notes/3_Spring Framework/Spring Boot项目开发.canvas",
     "resources/unsorted/搭建项目模板 1.md",
     "notes/1_Java SE/JVM.canvas",
     "notes/1_Java SE/Java枚举.canvas",
-    "notes/1_Java SE/Java集合.canvas",
-    "notes/1_Java SE/Java语法.canvas",
     "notes/1_Java SE/Java函数式编程.canvas",
-    "notes/1_Java SE/Java反射.canvas",
     "resources/unsorted/Java反射与动态代理 1.md",
-    "notes/4_Data Base MS/Database.canvas",
     "resources/unsorted/DB.md",
     "resources/unsorted/DB - redis.md",
     "resources/unsorted/DB - mysql 1.md",
@@ -284,18 +231,12 @@
     "resources/unsorted/安装MySQL.md",
     "resources/unsorted/安装JDK.md",
     "resources/unsorted/shell脚本.md",
-    "resources/unsorted/docker 1.md",
-    "resources/unsorted/Java程序设计基础.md",
     "resources/unsorted/JVM线程状态流转图.svg",
     "resources/unsorted/cas示意图.svg",
     "resources/unsorted/Pasted image 20240802093527.png",
     "resources/unsorted/Pasted image 20240801164805.png",
     "resources/unsorted/Pasted image 20240801113403.png",
     "resources/unsorted/Pasted image 20240801112844.png",
-    "resources/unsorted/Pasted image 20240801110159.png",
-    "resources/unsorted/Pasted image 20240801105747.png",
-    "resources/unsorted/Pasted image 20240801103008.png",
-    "resources/unsorted/Pasted image 20240801102543.png",
     "notes/7_Software Project Management",
     "notes/6_Data Structure And Algorithm",
     "notes/其他",

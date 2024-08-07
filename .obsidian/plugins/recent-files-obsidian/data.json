@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Java输入输出流",
+      "path": "notes/1_Java SE/Java输入输出流.canvas"
+    },
+    {
+      "basename": "Java IO",
+      "path": "resources/unsorted/Java IO.md"
+    },
+    {
+      "basename": "Java集合",
+      "path": "notes/1_Java SE/Java集合.canvas"
+    },
+    {
       "basename": "kanban",
       "path": "kanban.md"
     },
@@ -9,8 +21,44 @@
       "path": "notes/同步异步与阻塞.md"
     },
     {
+      "basename": "Java语法",
+      "path": "notes/1_Java SE/Java语法.canvas"
+    },
+    {
       "basename": "Java多线程编程",
       "path": "notes/1_Java SE/Java多线程编程.canvas"
+    },
+    {
+      "basename": "Java异常捕获与处理",
+      "path": "notes/1_Java SE/Java异常捕获与处理.canvas"
+    },
+    {
+      "basename": "git",
+      "path": "notes/5_Linux Server/git.canvas"
+    },
+    {
+      "basename": "Java异常与错误",
+      "path": "resources/unsorted/Java异常与错误.md"
+    },
+    {
+      "basename": "java异常类图",
+      "path": "resources/unsorted/java异常类图.png"
+    },
+    {
+      "basename": "Pasted image 20240803181340",
+      "path": "resources/unsorted/Pasted image 20240803181340.png"
+    },
+    {
+      "basename": "ScheduledThreadPoolExecutor类图",
+      "path": "resources/unsorted/ScheduledThreadPoolExecutor类图.png"
+    },
+    {
+      "basename": "Java集合",
+      "path": "resources/unsorted/Java集合.md"
+    },
+    {
+      "basename": "Pasted image 20240803133214",
+      "path": "resources/unsorted/Pasted image 20240803133214.png"
     },
     {
       "basename": "Spring Boot项目开发",
@@ -29,24 +77,12 @@
       "path": "notes/1_Java SE/Java枚举.canvas"
     },
     {
-      "basename": "Java集合",
-      "path": "notes/1_Java SE/Java集合.canvas"
-    },
-    {
-      "basename": "Java语法",
-      "path": "notes/1_Java SE/Java语法.canvas"
-    },
-    {
       "basename": "Java函数式编程",
       "path": "notes/1_Java SE/Java函数式编程.canvas"
     },
     {
       "basename": "Java反射",
       "path": "notes/1_Java SE/Java反射.canvas"
-    },
-    {
-      "basename": "Java输入输出流",
-      "path": "notes/1_Java SE/Java输入输出流.canvas"
     },
     {
       "basename": "Database",
@@ -163,42 +199,6 @@
     {
       "basename": "Java SPI",
       "path": "notes/其他/Java SPI.md"
-    },
-    {
-      "basename": "GraphQL",
-      "path": "notes/其他/GraphQL.md"
-    },
-    {
-      "basename": "消息队列",
-      "path": "notes/其他/消息队列.canvas"
-    },
-    {
-      "basename": "Java多线程并发编程",
-      "path": "resources/unsorted/Java多线程并发编程.md"
-    },
-    {
-      "basename": "Pasted image 20240801092545",
-      "path": "resources/unsorted/Pasted image 20240801092545.png"
-    },
-    {
-      "basename": "Netty",
-      "path": "notes/其他/Netty.md"
-    },
-    {
-      "basename": "Office",
-      "path": "notes/其他/Office.md"
-    },
-    {
-      "basename": "image-20211103141801672",
-      "path": "resources/unsorted/image-20211103141801672.png"
-    },
-    {
-      "basename": "image-20211103141801672-16508790106161",
-      "path": "resources/unsorted/image-20211103141801672-16508790106161.png"
-    },
-    {
-      "basename": "77c6a7efce1b9d16fe838ea1881b5b878e5464f3-16508541068991",
-      "path": "resources/unsorted/77c6a7efce1b9d16fe838ea1881b5b878e5464f3-16508541068991.jpeg"
     }
   ],
   "omittedPaths": []

@@ -2,7 +2,8 @@
 	"nodes":[
 		{"id":"8bca607e218c0b2f","type":"file","file":"resources/unsorted/Java IO.md","x":-380,"y":-273,"width":800,"height":1253},
 		{"id":"0c254bd520b936ac","type":"file","file":"notes/5_Linux Server/linux io模型.md","x":-360,"y":1240,"width":400,"height":160},
-		{"id":"891cb2f033f41565","x":-1110,"y":487,"width":250,"height":293,"type":"text","text":"java中IO多路复用的使用场景\nNIO的使用场景\n\n1. 连接数特别多，发送的数据少，比如聊天服务器"}
+		{"id":"891cb2f033f41565","type":"text","text":"java中IO多路复用的使用场景\nNIO的使用场景\n\n1. 连接数特别多，发送的数据少，比如聊天服务器","x":-1110,"y":487,"width":250,"height":293},
+		{"id":"b4a4e1a689068af4","x":600,"y":-273,"width":860,"height":1113,"type":"text","text":"## InputStream\n\n方法分析：\n抽象方法\npublic abstract int read() throws IOException;\n读取一个字节，返回一个int类型，取值范围[-1, 255]\n一个字节表示无符号非负整数的范围时[0, 255]\n返回负1表示没有数据可读取了。\n读取数据时方法会阻塞\n其他方法都是将数据读取到数组中，通过for循环调用read()方法实现\n\n> [!faq] 文件读取时，在循环中每次读取一个字节，性能不会差吗？\n> FileInputStream中读取数据的fang\n> \n\n\n常见子类：\n- ObjectInputStream\n- StringBufferInputStream\n- FilterInputStream\n\t- DataInputStream\n\t- CheckedInputStream\n\t- BufferedInputStream\n\t- PushbackInputStream\n\t- LineNumberInputStream\n- ByteArrayInputStream\n- PipedInputStream\n- SequenceInputStream\n- FileInputStream"}
 	],
 	"edges":[]
 }

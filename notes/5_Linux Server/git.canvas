@@ -6,7 +6,8 @@
 		{"id":"fd20a77ddc91cde2","type":"text","text":"# 同步本地文件夹至github\n\n### 本地生成ssh key\n\n```shell\nssh-keygen -t rsa -C \"bithup@foxmail.com\"\n```\n在用户文件下.ssh/id_rsa.pub文件中查看公钥\n\n### github仓库配置用户公钥\n\nSettings --> Deploy Keys\n","x":280,"y":580,"width":740,"height":540},
 		{"id":"3b708f2d0a6121eb","type":"text","text":"```shell\ngit remote add origin git@github.com:bithup/obsidian-vaults.git\n\n# github默认分支是main\ngit push -u origin main\n```","x":280,"y":1200,"width":740,"height":180},
 		{"id":"0452acd05a972bab","type":"file","file":"resources/unsorted/u=2640741206,444576451&fm=173&app=49&f=JPEG.jpeg","x":1780,"y":440,"width":400,"height":195},
-		{"id":"ea7bfc8b2e62d37d","type":"file","file":"resources/unsorted/image-20220621154328783.png","x":2059,"y":1023,"width":399,"height":159}
+		{"id":"ea7bfc8b2e62d37d","type":"file","file":"resources/unsorted/image-20220621154328783.png","x":2059,"y":1023,"width":399,"height":159},
+		{"id":"c67c6d2905f7ccc8","x":-1120,"y":840,"width":703,"height":377,"type":"text","text":"## git flow工作流\n\nhttps://mp.weixin.qq.com/s/yQooS4uftxNo0uh_Xbx2Kg?poc_token=HCmFr2ajS2ftvR7qVUBzrsBLC0OA1A3lhBHabsBU"}
 	],
 	"edges":[]
 }

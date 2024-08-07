@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"6f65e33d1f97a624","x":18,"y":-456,"width":400,"height":400,"type":"file","file":"resources/unsorted/Java集合.md"}
+		{"id":"6f65e33d1f97a624","type":"file","file":"resources/unsorted/Java集合.md","x":18,"y":-456,"width":400,"height":400},
+		{"id":"d841450ea75ae3cf","x":-460,"y":-456,"width":415,"height":429,"type":"text","text":"队列queue\n特点：元素先进先出\n常用方法\npoll\npeek\n\n\n\n\n双端队列deque\n是queue的子接口\n特点：元素可以从两端进出\n双端队列限制元素只在一端进出，可用做栈\nLinkedBlockingDeque"}
 	],
 	"edges":[]
 }
