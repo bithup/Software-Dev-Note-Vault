@@ -1,5 +1,5 @@
 {
-  "cssTheme": "Maple",
+  "cssTheme": "Border",
   "showViewHeader": true,
   "theme": "moonstone",
   "textFontFamily": "Maple Mono NF CN",
@@ -8,5 +8,5 @@
     "test"
   ],
   "monospaceFontFamily": "Maple Mono NF CN",
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "Inter"
 }

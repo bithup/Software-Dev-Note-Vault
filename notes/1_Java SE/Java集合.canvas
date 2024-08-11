@@ -1,7 +1,13 @@
 {
 	"nodes":[
-		{"id":"6f65e33d1f97a624","type":"file","file":"resources/unsorted/Java集合.md","x":18,"y":-456,"width":400,"height":400},
-		{"id":"d841450ea75ae3cf","x":-460,"y":-456,"width":415,"height":429,"type":"text","text":"队列queue\n特点：元素先进先出\n常用方法\npoll\npeek\n\n\n\n\n双端队列deque\n是queue的子接口\n特点：元素可以从两端进出\n双端队列限制元素只在一端进出，可用做栈\nLinkedBlockingDeque"}
+		{"id":"02e4cf7df0b8e426","type":"file","file":"notes/1_Java SE/card/HashMap.md","x":-480,"y":-2880,"width":717,"height":438},
+		{"id":"d841450ea75ae3cf","type":"text","text":"队列queue\n特点：元素先进先出\n常用方法\npoll\npeek\n\n\n\n\n双端队列deque\n是queue的子接口\n特点：元素可以从两端进出\n双端队列限制元素只在一端进出，可用做栈\nLinkedBlockingDeque","x":280,"y":-100,"width":415,"height":429},
+		{"id":"673f7bddafbeed0c","type":"file","file":"notes/6_Data Structure And Algorithm/card/B+树.md","x":-1480,"y":-2880,"width":400,"height":400},
+		{"id":"7db3eede33f9d9a8","type":"file","file":"notes/6_Data Structure And Algorithm/card/红黑树.md","x":-930,"y":-2880,"width":400,"height":400},
+		{"id":"657ee99057fa6ce9","type":"text","text":"- Map\n\t- HashTable\n\t\t- Properties\n\t- WeakHashMap\n\t- TreeMap\n\t- EnumMap\n\t- IdentityHashMap\n\t- !SequencedMap\n\t\t- LinkedHashMap\n\t\t- !SortedMap\n\t\t\t- NavigableMap\n\t- HashMap\n\t\t- LinkedHashMap\n\n键值对集合\n底层有结构\nTree\nHash\nEnum\nhash + 链表\n\nHashTable线程安全，使用ConcurrentHashMap会更好\n\n- **HashMap**\n允许一个null键\n基于hash表，时间复杂度o(1)\n\n- **WeakHashMap**\n如果没有强引用指向某个键，该键就会被垃圾回收，并从`WeakHashMap`中移除。\n- **TreeMap**\n实现NavigableMap提供了基于键的排序功能，非常适合需要有序数据的场景。\n双向迭代：`NavigableMap`支持正向和反向迭代，这使得你可以从最小键或最大键开始迭代，也可以从任意位置开始迭代。\n子映射：`NavigableMap`允许你创建子映射，即映射的一部分，该部分包含了特定范围内的键值对。\n- **EnumMap**\n使用枚举类型作为键\n- **IdentityHashMap**\n使用对象的地址而不是散列码来确定键的位置。这意味着即使两个对象的内容相同，只要它们不是同一个对象实例，它们就会被视为不同的键。\n\n主要用于那些需要根据对象引用而非内容来区分键的情况。\n\n- **LinkedHashMap**\n保持了键值对的插入顺序或访问顺序，这使得它非常适合需要维护顺序的应用场景。\n\n\n\n\n> [!NOTE] 将对象作为hashmap的键时，是否需要重写对象的hashcode方法？\n> 当你打算使用自定义的对象作为 `HashMap`（或其他基于哈希的集合如 `HashSet`）的键时，确实需要重写该对象的 `hashCode()` 和 `equals()` 方法。这是为了确保对象在哈希表中的正确存储和检索。参考[[hashCode与equals]]\n\n","x":-2560,"y":-1280,"width":772,"height":1698},
+		{"id":"3e6c60b5f8a597cf","type":"text","text":"线性结构：\n- 数组，容量确定，元素连续\n- 链表\n- 栈\n- 队列\n\n非线性：\n- 二叉树\n- 红黑树\n- 图","x":-1090,"y":-1680,"width":565,"height":550},
+		{"id":"d475a9c50c4c520a","type":"text","text":"- Collection\n\t- Set\n\t\t- EnumSet\n\t\t- !SequencedSet\n\t\t\t- LinkedHashSet\n\t\t\t- !SortedSet\n\t\t\t\t- !NavigatableSet\n\t\t\t\t\t- TreeSet\n\t\t- SortedSet\n\t\t- HashSet\n\t\t\t- LinkedHashSet\n\t- Queue\n\t\t- PriorityQueue\n\t\t- Deque\n\t\t\t- LinkedList\n\t\t\t- ArrayDeque\n\t- SequencedCollection\n\t\t- List\n\t\t\t- LinkedList\n\t\t\t- ArrayList\n\t\t\t- Vector\n\t\t\t\t- Stack\n\t\t- Deque\n\t\t\t- LinkedList\n\t\t\t- ArrayDeque\n\n\n### Set\nset集合的特点是元素不重复\n按元素是否有序分为\n无序set\n- HashSet：使用HashMap实现\n有序set\n- TreeSet：使用红黑树实现\n- LinkedHashSet\n\n### 线性集合\n底层使用数组和链表实现\n\n数组和链表的特性","x":-1680,"y":-1280,"width":720,"height":1340},
+		{"id":"6f65e33d1f97a624","type":"file","file":"resources/unsorted/Java集合.md","x":-1360,"y":120,"width":620,"height":796}
 	],
 	"edges":[]
 }

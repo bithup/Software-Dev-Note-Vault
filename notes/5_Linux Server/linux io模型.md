@@ -1,4 +1,4 @@
-## linux下的io调用
+## Linux IO模型
 read/write是通用的文件描述符操作；recv/send通常应用于TCP；recvfrom/sendto通常应用于UDP；
 1. read/write
 2. recv/send
@@ -17,9 +17,6 @@ read/write是通用的文件描述符操作；recv/send通常应用于TCP；recv
 > 磁盘文件的IO比较特殊，内核采用缓冲区cache加速磁盘IO请求。实际上在磁盘IO中，等待阶段是不存在的，因为磁盘文件并不像网络IO那样，需要等待远程传输数据。
 
 
-
-
-## Linux下的io模型
 ### 1.阻塞IO模型
 
 ![[Pasted image 20240801103008.png]]

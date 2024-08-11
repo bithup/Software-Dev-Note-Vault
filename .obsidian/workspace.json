@@ -8,16 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80358c7d05cb817e",
+            "id": "a031ff9ef55edf8f",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "notes/1_Java SE/Java输入输出流.canvas",
+                "file": "notes/4_Data Base MS/Elastic Search.canvas",
                 "viewState": {
-                  "x": 1469.970109969168,
-                  "y": 174.20760757572336,
-                  "zoom": -0.8931616126348997
+                  "x": 94.5,
+                  "y": 362.5,
+                  "zoom": -0.12735556837385203
+                }
+              }
+            }
+          },
+          {
+            "id": "453d87f4597c147f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "notes/5_Linux Server/容器化技术.canvas",
+                "viewState": {
+                  "x": 1031.4455642915752,
+                  "y": 2229.8088448886983,
+                  "zoom": -0.6170982092037456
                 }
               }
             }
@@ -34,6 +49,7 @@
       {
         "id": "f528b82170673dcb",
         "type": "tabs",
+        "dimension": 63.649851632047486,
         "children": [
           {
             "id": "eee402201784a9fc",
@@ -51,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "java集合",
+                "query": "在线安装redis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,6 +92,7 @@
       {
         "id": "9a29a25d89566638",
         "type": "tabs",
+        "dimension": 36.35014836795252,
         "children": [
           {
             "id": "a11d9b9c1ff8806b",
@@ -124,8 +141,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "40f0fbd660808ce8",
@@ -138,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/1_Java SE/Java输入输出流.canvas"
+                "file": "notes/4_Data Base MS/Elastic Search.canvas"
               }
             }
           },
@@ -148,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/1_Java SE/Java输入输出流.canvas",
+                "file": "notes/4_Data Base MS/Elastic Search.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/1_Java SE/Java输入输出流.canvas",
+                "file": "notes/4_Data Base MS/Elastic Search.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,62 +206,62 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "80358c7d05cb817e",
+  "active": "a11d9b9c1ff8806b",
   "lastOpenFiles": [
-    "notes/1_Java SE/Java集合.canvas",
+    "notes/5_Linux Server/容器化技术.canvas",
+    "notes/4_Data Base MS/Elastic Search.canvas",
+    "resources/unsorted/Docker.md",
+    "resources/templates/Linux安装XXX.md",
+    "resources/unsorted/docker 1.md",
+    "resources/templates/why123.md",
+    "notes/5_Linux Server/Linux运维.canvas",
+    "notes/5_Linux Server/card/Linux包管理器.md",
+    "resources/unsorted/屏幕截图_9-8-2024_13420_www.bilibili.com.jpeg",
+    "resources/unsorted/屏幕截图_9-8-2024_125958_www.bilibili.com.jpeg",
+    "resources/unsorted/屏幕截图_9-8-2024_124750_www.bilibili.com.jpeg",
+    "resources/unsorted/屏幕截图_9-8-2024_123631_www.bilibili.com.jpeg",
+    "notes/4_Data Base MS/消息队列.canvas",
+    "resources/unsorted/屏幕截图_9-8-2024_121213_www.bilibili.com.jpeg",
+    "resources/unsorted/屏幕截图_9-8-2024_12444_www.bilibili.com.jpeg",
+    "resources/unsorted/屏幕截图_9-8-2024_115730_www.bilibili.com.jpeg",
+    "resources/unsorted/屏幕截图_9-8-2024_115443_www.bilibili.com.jpeg",
+    "resources/unsorted/屏幕截图_9-8-2024_114733_www.bilibili.com.jpeg",
+    "resources/unsorted/屏幕截图_9-8-2024_11811_www.bilibili.com.jpeg",
+    "notes/4_Data Base MS/card/RabbitMQ.md",
+    "notes/5_Linux Server/card/Linux安装Redis.md",
+    "notes/5_Linux Server/card",
+    "notes/4_Data Base MS/Redis.canvas",
+    "notes/4_Data Base MS/card/Redis.md",
+    "notes/4_Data Base MS/card",
+    "notes/4_Data Base MS/Mysql.canvas",
     "notes/1_Java SE/Java输入输出流.canvas",
-    "kanban.md",
-    "notes/同步异步与阻塞.md",
-    "notes/1_Java SE/Java语法.canvas",
-    "notes/1_Java SE/Java多线程编程.canvas",
-    "notes/1_Java SE/Java异常捕获与处理.canvas",
-    "notes/5_Linux Server/git.canvas",
-    "resources/unsorted/java异常类图.png",
-    "resources/unsorted/Pasted image 20240803181340.png",
-    "resources/unsorted/Java集合.md",
-    "resources/unsorted/Pasted image 20240803133214.png",
-    "resources/unsorted/ScheduledThreadPoolExecutor类图.png",
-    "notes/3_Spring Framework/Spring Boot项目开发.canvas",
-    "resources/unsorted/搭建项目模板 1.md",
+    "notes/1_Java SE/01-Java语法.canvas",
     "notes/1_Java SE/JVM.canvas",
-    "notes/1_Java SE/Java枚举.canvas",
-    "notes/1_Java SE/Java函数式编程.canvas",
+    "notes/1_Java SE/card/Java引用强度.md",
+    "notes/1_Java SE/card/JVM类加载.md",
+    "notes/1_Java SE/Java集合.canvas",
+    "notes/1_Java SE/card/HashMap.md",
+    "notes/6_Data Structure And Algorithm/card/B+树.md",
+    "notes/6_Data Structure And Algorithm/card/红黑树.md",
+    "notes/6_Data Structure And Algorithm/card",
+    "notes/1_Java SE/card/hashCode与equals.md",
+    "notes/1_Java SE/card",
+    "notes/其他/Netty.md",
+    "notes/1_Java SE/index.md",
+    "notes/5_Linux Server/linux io模型.md",
+    "resources/unsorted/Java IO.md",
+    "notes/同步异步与阻塞.md",
+    "README.md",
+    "kanban.md",
+    "resources/unsorted/Java集合.md",
+    "resources/unsorted/搭建项目模板 1.md",
     "resources/unsorted/Java反射与动态代理 1.md",
     "resources/unsorted/DB.md",
-    "resources/unsorted/DB - redis.md",
-    "resources/unsorted/DB - mysql 1.md",
-    "resources/unsorted/面向对象.md",
-    "resources/unsorted/基本语法.md",
-    "resources/unsorted/C++程序设计自考教材知识点总结.md",
-    "resources/unsorted/3、C++基础 1.md",
-    "resources/unsorted/排序算法.md",
-    "resources/unsorted/C++笔记.md",
-    "resources/unsorted/3、C++基础.md",
-    "resources/unsorted/2、80x86汇编.md",
-    "resources/unsorted/1、计算机组成.md",
-    "notes/其他/自动化测试面试题.md",
-    "resources/unsorted/Java基础面试题.md",
-    "resources/unsorted/8.第八章 数据库.md",
-    "resources/unsorted/常用shell命令.md",
-    "resources/unsorted/安装nginx.md",
-    "resources/unsorted/安装MySQL.md",
-    "resources/unsorted/安装JDK.md",
-    "resources/unsorted/shell脚本.md",
-    "resources/unsorted/JVM线程状态流转图.svg",
-    "resources/unsorted/cas示意图.svg",
-    "resources/unsorted/Pasted image 20240802093527.png",
-    "resources/unsorted/Pasted image 20240801164805.png",
-    "resources/unsorted/Pasted image 20240801113403.png",
-    "resources/unsorted/Pasted image 20240801112844.png",
     "notes/7_Software Project Management",
     "notes/6_Data Structure And Algorithm",
     "notes/其他",
     "notes/5_Linux Server",
     "notes/4_Data Base MS",
-    "spring.pdf",
-    "resources/unsorted/未命名文件.vsdx",
-    "resources/unsorted/思维导图-Java核.json",
-    "resources/pictures",
-    "resources/pdf/地球范围内相对论效应下的时间转移与同步.pdf"
+    "spring.pdf"
   ]
 }
