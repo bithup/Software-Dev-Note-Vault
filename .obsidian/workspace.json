@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "251ab9701bc8975c",
+        "id": "48bec17b709a3246",
         "type": "tabs",
         "children": [
           {
-            "id": "a031ff9ef55edf8f",
+            "id": "760bc7ed36427b2a",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -16,23 +16,8 @@
                 "file": "notes/4_Data Base MS/Elastic Search.canvas",
                 "viewState": {
                   "x": 94.5,
-                  "y": 362.5,
+                  "y": 971.9976635514017,
                   "zoom": -0.12735556837385203
-                }
-              }
-            }
-          },
-          {
-            "id": "453d87f4597c147f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "notes/5_Linux Server/容器化技术.canvas",
-                "viewState": {
-                  "x": 1031.4455642915752,
-                  "y": 2229.8088448886983,
-                  "zoom": -0.6170982092037456
                 }
               }
             }
@@ -206,10 +191,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a11d9b9c1ff8806b",
+  "active": "760bc7ed36427b2a",
   "lastOpenFiles": [
-    "notes/5_Linux Server/容器化技术.canvas",
+    "notes/4_Data Base MS/消息队列.canvas",
     "notes/4_Data Base MS/Elastic Search.canvas",
+    "notes/5_Linux Server/容器化技术.canvas",
     "resources/unsorted/Docker.md",
     "resources/templates/Linux安装XXX.md",
     "resources/unsorted/docker 1.md",
@@ -220,7 +206,6 @@
     "resources/unsorted/屏幕截图_9-8-2024_125958_www.bilibili.com.jpeg",
     "resources/unsorted/屏幕截图_9-8-2024_124750_www.bilibili.com.jpeg",
     "resources/unsorted/屏幕截图_9-8-2024_123631_www.bilibili.com.jpeg",
-    "notes/4_Data Base MS/消息队列.canvas",
     "resources/unsorted/屏幕截图_9-8-2024_121213_www.bilibili.com.jpeg",
     "resources/unsorted/屏幕截图_9-8-2024_12444_www.bilibili.com.jpeg",
     "resources/unsorted/屏幕截图_9-8-2024_115730_www.bilibili.com.jpeg",

@@ -5,6 +5,10 @@
       "path": "notes/4_Data Base MS/Elastic Search.canvas"
     },
     {
+      "basename": "消息队列",
+      "path": "notes/4_Data Base MS/消息队列.canvas"
+    },
+    {
       "basename": "容器化技术",
       "path": "notes/5_Linux Server/容器化技术.canvas"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "屏幕截图_9-8-2024_123631_www.bilibili.com",
       "path": "resources/unsorted/屏幕截图_9-8-2024_123631_www.bilibili.com.jpeg"
-    },
-    {
-      "basename": "消息队列",
-      "path": "notes/4_Data Base MS/消息队列.canvas"
     },
     {
       "basename": "屏幕截图_9-8-2024_04510_www.bilibili.com",
