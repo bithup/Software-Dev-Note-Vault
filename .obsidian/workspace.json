@@ -11,14 +11,10 @@
             "id": "85d1d3a663b1d62b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "diff-view",
               "state": {
-                "file": "notes/4_Data Base MS/Elastic Search.canvas",
-                "viewState": {
-                  "x": 18.63309415121254,
-                  "y": 698.8582339514975,
-                  "zoom": -1.064693954828285
-                }
+                "file": ".obsidian/plugins/recent-files-obsidian/data.json",
+                "staged": false
               }
             }
           }
@@ -137,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/4_Data Base MS/Elastic Search.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -148,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/4_Data Base MS/Elastic Search.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +158,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/4_Data Base MS/Elastic Search.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,6 +185,8 @@
   "active": "85d1d3a663b1d62b",
   "lastOpenFiles": [
     "notes/4_Data Base MS/Elastic Search.canvas",
+    "notes/4_Data Base MS/Database.canvas",
+    "notes/4_Data Base MS/Mysql.canvas",
     "notes/1_Java SE/Java输入输出流.canvas",
     "resources/unsorted/屏幕截图_9-8-2024_13420_www.bilibili.com.jpeg",
     "resources/unsorted/屏幕截图_9-8-2024_125958_www.bilibili.com.jpeg",
@@ -228,7 +222,6 @@
     "notes/1_Java SE/Java语法.canvas",
     "notes/1_Java SE/Java多线程编程.canvas",
     "notes/1_Java SE/Java异常捕获与处理.canvas",
-    "notes/5_Linux Server/git.canvas",
     "resources/unsorted/Java集合.md",
     "resources/unsorted/搭建项目模板 1.md",
     "resources/unsorted/Java反射与动态代理 1.md",

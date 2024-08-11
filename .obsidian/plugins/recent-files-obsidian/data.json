@@ -5,6 +5,14 @@
       "path": "notes/4_Data Base MS/Elastic Search.canvas"
     },
     {
+      "basename": "Database",
+      "path": "notes/4_Data Base MS/Database.canvas"
+    },
+    {
+      "basename": "Mysql",
+      "path": "notes/4_Data Base MS/Mysql.canvas"
+    },
+    {
       "basename": "Java输入输出流",
       "path": "notes/1_Java SE/Java输入输出流.canvas"
     },
@@ -79,14 +87,6 @@
     {
       "basename": "Java反射",
       "path": "notes/1_Java SE/Java反射.canvas"
-    },
-    {
-      "basename": "Database",
-      "path": "notes/4_Data Base MS/Database.canvas"
-    },
-    {
-      "basename": "Mysql",
-      "path": "notes/4_Data Base MS/Mysql.canvas"
     },
     {
       "basename": "计算机组成原理",
